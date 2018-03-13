@@ -22,14 +22,13 @@ public class BeautifulDaysAtTheMovies {
         return beautiful;
     }
 
-    public static void main(String[] args) {
-        /*Scanner in = new Scanner(System.in);
+    /*public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
         int i = in.nextInt();
         int j = in.nextInt();
-        int k = in.nextInt();*/
-        int i = 20, j = 23, k = 6;
+        int k = in.nextInt();
         int result = beautifulDays(i, j, k);
         System.out.println(result);
-        //in.close();
-    }
+        in.close();
+    }*/
 }
